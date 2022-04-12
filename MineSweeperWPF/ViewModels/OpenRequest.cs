@@ -1,6 +1,4 @@
 ﻿using MineSweeperWPF.Models;
-using System;
-using System.Collections.Generic;
 
 namespace MineSweeperWPF.ViewModels;
 

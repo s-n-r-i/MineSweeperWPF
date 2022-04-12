@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace MineSweeperWPF.Models.Tests;
+﻿namespace MineSweeperWPF.Models.Tests;
 
 /// <summary>
 /// 初期データジェネレーター テスト用stub

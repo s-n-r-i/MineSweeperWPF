@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace MineSweeperWPF.Models;
+﻿namespace MineSweeperWPF.Models;
 
 /// <summary>
 /// 初期データジェネレーター

@@ -1,7 +1,6 @@
 ﻿using MineSweeperWPF.Models;
 using Prism.Mvvm;
 using Reactive.Bindings;
-using System;
 
 namespace MineSweeperWPF.ViewModels;
 

@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace MineSweeperWPF.Models;
+﻿namespace MineSweeperWPF.Models;
 
 /// <summary>
 /// 初期データジェネレーター インターフェース

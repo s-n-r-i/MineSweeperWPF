@@ -1,8 +1,6 @@
 ﻿using Microsoft.Xaml.Behaviors;
 using MineSweeperWPF.Models;
 using MineSweeperWPF.ViewModels;
-using System;
-using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Controls.Primitives;
